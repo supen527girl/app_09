@@ -1,0 +1,5 @@
+data: &imp
+  value: 456
+name:
+  value1: 123
+  <<: *imp

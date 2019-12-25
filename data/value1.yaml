@@ -1,0 +1,36 @@
+###name: "lichaohua"/
+###name: "lili"
+###Name: "lili"
+##value1: {"name":"张三"}
+##value2: 张三
+##valueu3:
+##  name1: "张三"
+##  name2: "李四"
+##value4:
+## - 1
+## - 2
+#value5: [1,2,3]
+#value6:
+# - name: "lili"
+# - name: "lili"
+
+#value7: true
+#velue8: false
+#value9: True
+#value10: False
+#value11: 122
+#value12: 12.00000063
+value15: ~
+value16:
+value17: null
+value18: Null
+value19: None
+value20: none
+value21: " "
+value22: 2020-11-11 12:12:12
+value23: 2020-11-11
+value24: 12:12:12
+value25: 2020-11-11 02:02:01
+value26: 2020-01-1
+
+
